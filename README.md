@@ -22,10 +22,11 @@ digging pile - 8
 desert     - 9  
 waters     - 10  
 ##########################################################################################################
+![ASample](https://user-images.githubusercontent.com/97817720/149646808-4285f813-d6f8-46bc-8525-40327a8ad692.png)
 
 ##########################################################################################################
 !!!!!! Notes: the benchmark is reserved for research purpose only, please do not use for other purposes, 
-including extending it to your own benchmark without our permission !!!!!!
+including extending it to your own benchmark without our permission !!!!!!  
 Contact Information:
 {huxy, mizhang}@whu.edu.cn
 ##########################################################################################################
