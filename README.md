@@ -12,15 +12,15 @@ The spatial resolution ranges from 0.1m to 2m per pixel.
 ##########################################################################################################
 background - 0  
 farmland   - 1  
-garden     - 2
-woodland   - 3
-grassland  - 4
-building   - 5
-road       - 6
-structures - 7
-digging pile - 8
-desert     - 9
-waters     - 10
+garden     - 2  
+woodland   - 3  
+grassland  - 4  
+building   - 5  
+road       - 6  
+structures - 7  
+digging pile - 8  
+desert     - 9  
+waters     - 10  
 ##########################################################################################################
 
 ##########################################################################################################
