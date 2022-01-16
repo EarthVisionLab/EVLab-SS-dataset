@@ -9,7 +9,8 @@ It comprises 48,622, 13539 patches for training and validation, respectively.
 The dataset contains 11 major classes, namely, background, farmland, garden, woodland, grassland, building, road, structures, digging pile, desert and waters (label 0-10).
 The spatial resolution ranges from 0.1m to 2m per pixel.
 
-##########################################################################################################
+![ASample](https://user-images.githubusercontent.com/97817720/149646808-4285f813-d6f8-46bc-8525-40327a8ad692.png)
+##########################################################################################################  
 background - 0  
 farmland   - 1  
 garden     - 2  
@@ -22,7 +23,7 @@ digging pile - 8
 desert     - 9  
 waters     - 10  
 ##########################################################################################################
-![ASample](https://user-images.githubusercontent.com/97817720/149646808-4285f813-d6f8-46bc-8525-40327a8ad692.png)
+
 
 ##########################################################################################################
 !!!!!! Notes: the benchmark is reserved for research purpose only, please do not use for other purposes, 
