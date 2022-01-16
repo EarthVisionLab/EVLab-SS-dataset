@@ -23,7 +23,9 @@ digging pile - 8
 desert     - 9  
 waters     - 10  
 ##########################################################################################################
-
+Download:   
+BaiduCloud：https://pan.baidu.com/s/1V7qdgoG0PpZrmsCzT3ROkQ   
+Code：EVLa 
 
 ##########################################################################################################
 !!!!!! Notes: the benchmark is reserved for research purpose only, please do not use for other purposes, 
