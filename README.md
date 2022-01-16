@@ -10,8 +10,8 @@ The dataset contains 11 major classes, namely, background, farmland, garden, woo
 The spatial resolution ranges from 0.1m to 2m per pixel.
 
 ##########################################################################################################
-background - 0
-farmland   - 1
+background - 0  
+farmland   - 1  
 garden     - 2
 woodland   - 3
 grassland  - 4
