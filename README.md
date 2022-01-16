@@ -1,7 +1,7 @@
 # EVLab-SS-dataset
 EVLab-SS dataset is a semantic segmentation benchmark proposed and leaded by Prof. Xiangyun Hu and created by Dr. Mi Zhang and other EVLab members.
 
-The program is started from the mid year of 2016 and end in the beginning year of 2017, which aims to find a good architecture for real engineered scenes in remote sensing community.
+The program is started from the mid year of 2016 and end in 2018, which aims to find a good architecture for real engineered scenes in remote sensing community.
 
 The dataset is originally annotated following the standard of the first class under the Geographic Conditions Survey (NO.GDPJ 01—2013). It comprises 48,622, 13539 patches for training and validation, respectively. The dataset contains 11 major classes, namely, background, farmland, garden, woodland, grassland, building, road, structures, digging pile, desert and waters (label 0-10). The spatial resolution ranges from 0.1m to 2m per pixel.
 
